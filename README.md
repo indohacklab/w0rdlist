@@ -3,7 +3,7 @@ w0rdlist
 
 Indo|HackLab Wordlist made for recovery password 
 
-By The Crows Crew
+By The Crows Crew & TeamLab
 
 Visit Our Forum: forum.tcc.sch.id 
 
